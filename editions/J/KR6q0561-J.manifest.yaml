@@ -19,7 +19,7 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0561_000-J.yaml, hash: 'sha256:32fe0690b84cf519113d729d7eb0f49d61124d2fabc12c2f33d253c4648061a1'}
+  - {seq: 0, filename: KR6q0561_000-J.yaml, hash: 'sha256:7e3ac05215a76f750d07b6bd5a9074a29911b5cd7606ff3c9e46a1cd0456c13b'}
   - {seq: 1, filename: KR6q0561_001-J.yaml, hash: 'sha256:42b270c0960840be9f8a78c1e09f12a3d7434a83702cf2117ccd6a85be64addc'}
   - {seq: 2, filename: KR6q0561_002-J.yaml, hash: 'sha256:2918e876958ea260470408cb1a0fcaa475d3f784ec0b79f11c7295b7bf7354c2'}
   - {seq: 3, filename: KR6q0561_003-J.yaml, hash: 'sha256:8cca435a812813bcc338385b916051c8ea5d7196de84356f963da4e997e79b6b'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 9, filename: KR6q0561_009-J.yaml, hash: 'sha256:ff21417b1fc71a7d88db96cbf458b3209b99f6b3b8762719be6e66f6b0ad0e19'}
   - {seq: 10, filename: KR6q0561_010-J.yaml, hash: 'sha256:7747dbbedc4ba0c8045a031f859764177206a62b9c2edb889a082e896b777cf9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0561_000-J.markers.yaml, hash: 'sha256:d5908a1a62fb0834062209a382998423bd668656ee4f98d7e2ea85c16c88f3e5'}
+  - {seq: 0, role: markers, filename: assets/KR6q0561_000-J.markers.yaml, hash: 'sha256:5c93e56b1273cb904303af9f5a5295bb15691f5bea7f022535953a9d12f7619e'}
   - {seq: 1, role: markers, filename: assets/KR6q0561_001-J.markers.yaml, hash: 'sha256:b31aacf69a8cc60d3df449362d9a02f3f9e5fee9846f02697710b72d0e9e49c3'}
   - {seq: 2, role: markers, filename: assets/KR6q0561_002-J.markers.yaml, hash: 'sha256:284dbc0aea5d3c18e060d222349315df136d389467b855c14b51246c804fb414'}
   - {seq: 3, role: markers, filename: assets/KR6q0561_003-J.markers.yaml, hash: 'sha256:d56f0298019f4442029e7db3566c7ac6bc38ab06d48330c405d3c02323b9fa05'}
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0561_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0561_J_000-mulu-2
     span:
-    - front
+    - body
     - 501
     - 501
   label: 目次
@@ -3543,4 +3543,4 @@ table_of_contents:
   label: 行由
   type: mulu
   level: 1
-hash: sha256:4efec9d17b46f92ca19d5b948ddcef88966aec0d7d87601ae6e610cd437d0d2f
+hash: sha256:b3ba8f3de7f0d3a97c1dd81b65f9e39a56e3844c97468c6aa8bbfdec4e969ffe
